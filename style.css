@@ -13,6 +13,11 @@ button {
     outline: none!important;
 }
 
+.keywords{
+    color:#cccccc;
+    font-size:1px;
+}
+
 a:hover {
     text-decoration: none;
     cursor: pointer;
@@ -822,7 +827,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
