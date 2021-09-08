@@ -317,7 +317,11 @@ a[data-lightbox]:hover img{opacity:.6;-webkit-animation-fill-mode:none;animation
 .statement-bloc-text{line-height:26px;font-style:italic;font-size:20px;text-align:center;font-weight:lighter;max-width:520px;margin:auto auto auto auto;
 }
 
-p{font-size:13px;
+p{font-size:14px;
+}
+
+.text-center{
+    font-size:17px;
 }
 
 .tight-width-whitespace{max-width:600px;margin:auto auto auto auto;
@@ -353,7 +357,7 @@ h4{color:#333!important;
 .white{color:#fff!important;
 }
 
-.portfolio-thumb{margin-bottom:24px; width: 100%;
+.portfolio-thumb{margin-bottom:24px; width: 100%; 
 }
 
 .portfolio-row{margin-bottom:44px;margin-top:50px;
