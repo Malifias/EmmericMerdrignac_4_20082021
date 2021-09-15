@@ -218,6 +218,9 @@ nav .caret{margin:0 5px;
 
 .btn-d,.btn-d:focus,.btn-d:hover{color:#fff;background:rgba(0,0,0,.3);
 }
+a:focus {
+    border: 2px solid blue;
+     }
 
 button{outline:0!important;
 }
@@ -317,12 +320,9 @@ a[data-lightbox]:hover img{opacity:.6;-webkit-animation-fill-mode:none;animation
 .statement-bloc-text{line-height:26px;font-style:italic;font-size:20px;text-align:center;font-weight:lighter;max-width:520px;margin:auto auto auto auto;
 }
 
-p{font-size:14px;
+p{font-size:18px;
 }
 
-.text-center{
-    font-size:17px;
-}
 
 .tight-width-whitespace{max-width:600px;margin:auto auto auto auto;
 }
@@ -339,7 +339,7 @@ p{font-size:14px;
 h2{font-size:22px;line-height:1.4em;
 }
 
-h3{font-size:15px;text-transform:uppercase;font-weight:700;color:#333333!important;
+h3{font-size:20px;text-transform:uppercase;font-weight:700;color:#333333!important;
 }
 
 .med-width-whitespace{max-width:800px;margin:auto auto auto auto;box-shadow:0 0 0 #000000;
@@ -383,7 +383,8 @@ h4{color:#333!important;
 
 .tc-white{color:#fff!important;
 }
-
+.tc-orange{color:#f3976c!important;
+}
 .btn-atomic-tangerine{background:#f3976c;color:#000!important;
 }
 
